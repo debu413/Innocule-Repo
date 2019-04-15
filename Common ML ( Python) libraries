@@ -1,0 +1,20 @@
+1. Pandas (https://pandas.pydata.org/)
+2. Numpy (www.numpy.org/)
+3. Scipy (https://www.scipy.org/)
+4. NetworkX (https://lnkd.in/feNFfE7)
+5. RTree(toblerity.org/rtree/)
+6. GDAL (https://lnkd.in/fchnwNC)
+7. Fiona (https://lnkd.in/fKGwbCA)
+8. Missingno(https://lnkd.in/ffxt7r8)
+9. Shapely (https://lnkd.in/fr9k9B7)
+10. Geopandas (geopandas.org/)
+11. PySAL (https://lnkd.in/fQwC8cn)
+12. Matplotlib (https://matplotlib.org/)
+13. Rasterio
+14. PyProj
+15 Telluric (https://lnkd.in/f77YKAh), a high level layer on top of Fiona, rasterio, Shapely and Pyproj, with interactive visualization capabilities, open sourced by Satellogic
+16. Folium
+17. Basemap library in Python: This is really a good library for plotting static maps. I have explored it thoroughly and used some of its functionalities in my project. https://lnkd.in/f2V6T6y
+18. Omniscope
+19. Bokeh
+Seaborn
